@@ -1,0 +1,17 @@
+# Java and Maven build output
+*.class
+/target/
+/out/
+/build/
+
+# Local IDE settings (.run contains a useful shared run configuration)
+/.idea/
+*.iml
+*.ipr
+*.iws
+/.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
